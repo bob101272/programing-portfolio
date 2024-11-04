@@ -6,9 +6,12 @@
 ### Etch-A-Sketch
 
 ![Screenshot 2024-11-04 at 10 02 30 AM](https://github.com/user-attachments/assets/4decbac4-634b-4758-b4eb-24fd6acbd23d)
+
 [Source code]()
 
 ## Term 2
 ### Calculator
 
 ![Screenshot 2024-11-04 at 9 56 28 AM](https://github.com/user-attachments/assets/8db8bed7-8396-4dcf-b9f9-df01439ae15e)
+
+[sorce code](https://github.com/bob101272/programing-portfolio/tree/main/src/calculator)
