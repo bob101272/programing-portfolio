@@ -3,5 +3,7 @@
 * my school email is: 9695185@graniteschools.org
 * my home email is: apmenderman@gmail.com
 ## Term 1 
+###Etch-A-Sketch
+
 
 ## Term 2
