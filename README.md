@@ -7,4 +7,4 @@ Etch-A-Sketch
 
 
 ## Term 2
-###Calculator
+Calculator
