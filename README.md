@@ -15,3 +15,11 @@
 ![Screenshot 2024-11-04 at 9 56 28 AM](https://github.com/user-attachments/assets/8db8bed7-8396-4dcf-b9f9-df01439ae15e)
 
 [Source code](https://github.com/bob101272/programing-portfolio/tree/main/src/calculator)
+
+### Space Game
+##### unfinished
+###### for now
+
+
+![Screenshot 2024-12-02 at 9 23 17 AM](https://github.com/user-attachments/assets/d7cf010b-aa0a-4f7d-af06-2950a3074ee6)
+
