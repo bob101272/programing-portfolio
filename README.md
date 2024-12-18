@@ -19,6 +19,8 @@
 ### Space Game
 ##### unfinished
 ###### for now
+###### or never
+###### i have no idea
 
 
 ![Screenshot 2024-12-02 at 9 23 17 AM](https://github.com/user-attachments/assets/d7cf010b-aa0a-4f7d-af06-2950a3074ee6)
